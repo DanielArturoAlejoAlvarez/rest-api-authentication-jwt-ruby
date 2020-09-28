@@ -8,6 +8,10 @@ This repository is a Software of Application with Rails,JWT,PostgreSQL,etc
 
 Using Ruby 2.7, Rails 6.0 preferably.
 
+## Software
+
+Ruby Version Manager RVM 1.29.10-next
+
 ## Database
 
 Using PostgreSQL
