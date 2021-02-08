@@ -19,7 +19,7 @@ gem 'bcrypt', '~> 3.1.7'
 # Json Web Token
 gem 'jwt'
 # Avatar Uploader
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
